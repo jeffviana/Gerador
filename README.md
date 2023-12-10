@@ -2,6 +2,8 @@
 
 Um simples gerador de senha criado usando HTML, CSS e JavaScript.
 
+![Alt text](assets/Screenshot_18.png)
+
 ## Como Usar
 
 1. Faça o download ou clone o repositório:
